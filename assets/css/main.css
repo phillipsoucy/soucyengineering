@@ -2,7 +2,9 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
 
 /*
-	Spectral by HTML5 UP
+	Soucy Mechanical Engineering
+	Website Version 1.0.1
+	Template: Spectral by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
@@ -1859,7 +1861,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			box-shadow: 0 0 0 2px #21b2a6;
+			box-shadow: 0 0 0 2px #559ce3;
 		}
 
 	select {
@@ -2487,7 +2489,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #2a50b3; /*Submit button color*/
+			background-color: #559ce3; /*Submit button color*/
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
